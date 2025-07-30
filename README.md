@@ -1,5 +1,5 @@
 # IntraSight
-A Discord based Remote Access Tool designed to mess with clients
+A Remote Access tool that gets around needing a host server by utilizing a discord bot
 
 NOTICE:
 THIS PROGRAM WAS CREATED FOR EDUCATION PURPOSES ONLY. DO NOT ATTEMPT TO USE THE PROGRAM FOR ANY MALICIOUS REASON
@@ -16,7 +16,6 @@ AND A $50,000 FINE IF CONVICTED
 The authors accept **no liability** for misuse, damages, or legal action resulting from the improper use of this code.
 
 [ FEATURES ]
-  * Brodcast Screen
   * Capture screenshot
   * brodcast microphone
   * grab steam information
@@ -30,5 +29,6 @@ The authors accept **no liability** for misuse, damages, or legal action resulti
   * log machine information
   * jumpscare
   * play sound
+  * 
 
 
