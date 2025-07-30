@@ -15,6 +15,12 @@ AND A $50,000 FINE IF CONVICTED
 **Do not** attempt to deploy, use, compile, or run this tool on any machine you are not the owner of without ***WRITTEN, AND INFORMED CONSENT***
 The authors accept **no liability** for misuse, damages, or legal action resulting from the improper use of this code.
 
+## Buy Me A Coffee
+btc: bc1q4c2dnx2mxnye23kqfupk9fnywzajxtlgzfws8k
+eth: 0x56D8DA98CE945BEeDeCE1588eE39F2E37bA523d4
+donations are not required, but it helps fund this project and others
+
+
 [ FEATURES ]
   * Capture screenshot
   * brodcast microphone
