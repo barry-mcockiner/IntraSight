@@ -1,6 +1,8 @@
 # IntraSight
 A Remote Access tool that gets around needing a host server by utilizing a discord bot
+
 telegram: @oraclepredcatcher
+
 NOTICE:
 THIS PROGRAM WAS CREATED FOR EDUCATIONAL PURPOSES ONLY. DO NOT ATTEMPT TO USE THE PROGRAM FOR ANY MALICIOUS REASON
 I AM NOT RESPONSIBLE FOR ANY ACTIONS YOU TAKE INVOLVING THIS REPOSITORY OR CODE WITHIN
