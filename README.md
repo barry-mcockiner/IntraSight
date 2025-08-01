@@ -17,7 +17,7 @@ The authors accept **no liability** for misuse, damages, or legal action resulti
 
 ## Buy Me A Coffee
 btc: bc1q4c2dnx2mxnye23kqfupk9fnywzajxtlgzfws8k
-eth: 0x56D8DA98CE945BEeDeCE1588eE39F2E37bA523d4
+eth: 0x56D8DA98CE945BEeDeCE1588eE39F2E37bA523d4 
 donations are not required, but it helps fund this project and others
 
 
