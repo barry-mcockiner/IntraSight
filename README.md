@@ -1,6 +1,6 @@
 # IntraSight
 A Remote Access tool that gets around needing a host server by utilizing a discord bot
-
+telegram: @oraclepredcatcher
 NOTICE:
 THIS PROGRAM WAS CREATED FOR EDUCATIONAL PURPOSES ONLY. DO NOT ATTEMPT TO USE THE PROGRAM FOR ANY MALICIOUS REASON
 I AM NOT RESPONSIBLE FOR ANY ACTIONS YOU TAKE INVOLVING THIS REPOSITORY OR CODE WITHIN
@@ -17,24 +17,20 @@ The authors accept **no liability** for misuse, damages, or legal action resulti
 
 ## Buy Me A Coffee
 btc: bc1q4c2dnx2mxnye23kqfupk9fnywzajxtlgzfws8k
+
 eth: 0x56D8DA98CE945BEeDeCE1588eE39F2E37bA523d4 
 donations are not required, but it helps fund this project and others
 
 
 [ FEATURES ]
   * Capture screenshot
-  * brodcast microphone
-  * grab steam information
-  * grab windows information
-  * unique payload delivery method
-  * force command
-  * force redirect
-  * force search
-  * trigger BSOD
-  * disable network packets
-  * log machine information
-  * jumpscare
-  * play sound
-  * 
-
+  * open chat window
+  * grab files
+  * download files
+  * find directory contents
+  * encrypt/decrypt files
+  * force google search
+  * execute file (hidewindow true/false)
+  * get system information
+  * +more
 
